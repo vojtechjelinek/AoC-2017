@@ -15,6 +15,7 @@ Not used languages:
  * Lua
  * R
  * Clojure
+ * Elm
  * Coconut
  * F#
  * CoffeeScript
@@ -22,3 +23,4 @@ Not used languages:
 Used languages:
  * Prolog
  * Racket
+ * Excel
