@@ -19,6 +19,8 @@ Not used languages:
  * Coconut
  * F#
  * CoffeeScript
+ * Ruby
+ * SQL
 
 Used languages:
  * Prolog
