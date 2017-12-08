@@ -12,7 +12,6 @@ Not used languages:
  * Rust !!
  * Kotlin !!
  * Go !!
- * Lua !!
  * R !!
  * Elm !!!
  * Coconut !!
@@ -27,4 +26,4 @@ Used languages:
  * Racket
  * Excel
  * Clojure
- * Lua 
+ * Lua
