@@ -2,21 +2,18 @@ Not used languages:
  * Dart !
  * JavaScript !
  * Java !!
- * Haskell !!!
  * Python !
  * C !!
  * C++ !!
  * C# !!
  * PHP !!
- * Scala !!!
- * Rust !!
  * Kotlin !!
  * Go !!
  * R !!
  * Elm !!!
  * Coconut !!
  * F# !!!
- * CoffeeScript !!
+ * CoffeeScript !
  * Ruby !!
  * SQL !!!
  * Swift !!
@@ -27,3 +24,6 @@ Used languages:
  * Excel
  * Clojure
  * Lua
+ * Rust
+ * Scala
+ * Haskell
