@@ -1,5 +1,4 @@
 Not used languages:
- * Dart !
  * JavaScript !
  * Java !!
  * Python !
@@ -27,3 +26,5 @@ Used languages:
  * Rust
  * Scala
  * Haskell
+ * Dart
+ * Elm
