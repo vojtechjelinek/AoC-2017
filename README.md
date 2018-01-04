@@ -6,7 +6,6 @@ Not used languages:
  * C++ !!
  * C# !!
  * PHP !!
- * Kotlin !!
  * Go !!
  * R !!
  * Elm !!!
@@ -28,3 +27,4 @@ Used languages:
  * Haskell
  * Dart
  * Elm
+ * Kotlin
