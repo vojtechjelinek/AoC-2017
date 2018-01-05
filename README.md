@@ -28,3 +28,4 @@ Used languages:
  * Dart
  * Elm
  * Kotlin
+ * Go
